@@ -1,0 +1,26 @@
+body{
+	margin-top: 8%;
+	font-family: monospace;
+
+}
+#per{
+	width: 200px;
+	height: 200px;
+}
+.card{
+	align-items: center;
+}
+i a{
+	margin-left: 10px;
+}
+html{
+	background: black;
+	text-align: left;
+}
+#lll{
+	color: white;
+	font-family: cursive;
+}
+h5{
+	font-family: fantasy;
+}
